@@ -15,7 +15,7 @@
     show-summary
     style="width: 100%; margin-top: 20px"
   >
-    <el-table-column prop="id" label="ID" width="180" />
+    <el-table-column fixed prop="id" label="ID" width="180" />
     <el-table-column prop="name" label="Name" />
     <el-table-column prop="amount1" label="Cost 1 ($)" />
     <el-table-column prop="amount2" label="Cost 2 ($)" />
